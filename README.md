@@ -1,4 +1,4 @@
-## Environment setup for the data analysis app
+## Environment setup for the data analysis
  
 Import the necessary library
 
